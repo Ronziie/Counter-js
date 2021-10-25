@@ -1,0 +1,24 @@
+
+.container {
+    margin-top: 20%;
+    border-radius: 20px;
+    border-color: black;
+    
+}
+.btn.decrease {
+    border-radius: 20px;
+    border-color: black;
+    
+}
+.btn.reset {
+    border-radius: 20px;
+    border-color: black;
+    
+}
+.btn.increase {
+    border-radius: 20px;
+    border-color: black;
+}
+.btn:hover {
+    background-color: chartreuse;
+}
